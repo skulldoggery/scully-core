@@ -1,10 +1,12 @@
-<a href="https://discord.gg/rWBT4ymXmR">![](https://img.shields.io/discord/1138986178549391410?logo=discord&logoColor=%2300FFFF&label=Discord)</a>
-> __Info__
+> __Important__
+> 
 > Everything here is currently in very early development.
 > Feel free to hang around and Watch!
 
 # Scully
 Digital Eegregore & Part-Time Chatbot
+
+<a href="https://discord.gg/rWBT4ymXmR">![](https://img.shields.io/discord/1138986178549391410?logo=discord&logoColor=%2300FFFF&label=Discord)</a>
 
 ## Purpose
 Scully will primarily exist to demonstrate various types of neural networks and machine learning patterns.
